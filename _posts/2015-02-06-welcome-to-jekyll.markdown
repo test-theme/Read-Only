@@ -2,6 +2,7 @@
 layout: post
 title:  "Suspendisse pellentesque"
 date:   2015-02-06 14:37:44
+imgurl: <img src="./images/pic01.jpg">
 categories: update
 ---
 
